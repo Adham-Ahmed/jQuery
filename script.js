@@ -21,15 +21,12 @@ $(document).ready(
           {
               removeItem(event.target)
           })
+          
           enableDrag();
 
     }   
 )
-
-
-
-
-    
+   
 
 function displayItems()
 {
